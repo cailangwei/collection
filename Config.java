@@ -2,9 +2,9 @@
  * 文   件：	Config.java
  * 创建日期：	2012-5-23
  * 文件说明：	
- * 创 建 者：王雄飞
+ * 创 建 者：
  * 重大修改记录：
- * 2012-5-23 by 王雄飞 ： 创建
+ * 2012-5-23 by  ： 创建
  * 
  * Copyright (C) 2012 - 版权所有   2012 21CN Corp. Ltd
  */
@@ -19,7 +19,7 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 
 /**
- * @author wangxf
+ * @author 
  * 
  */
 public class Config {
